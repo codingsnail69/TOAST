@@ -1,0 +1,11 @@
+.VS/
+__pycache__
+
+.DS_Store/
+
+.venv/
+gen_rtl/
+sim_build/
+tmp/
+
+results.xml
