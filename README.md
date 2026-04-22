@@ -26,13 +26,17 @@ The configuration parameters can be combined in order to obtain an IP that suits
 ### To produce the source files
 * Python3.2+
 
-### To run the testbench
+### Requirements 
 * Python3.6+
 * GHDL
 * Cocotb (`pip install cocotb`)
 * Cocotb-bus (`pip install cocotb-bus`)
 * pycryptodome (`pip install pycryptodome`)
 * progressbar (`pip install progress`)
+
+> [!NOTE]
+> Install GHDL with apt or different package manager
+> And Simply run the pip install -r requirements.txt
 
 ## Quick start
 
